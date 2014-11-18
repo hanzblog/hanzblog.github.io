@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Archives
+header-img: "img/home-bg.jpg"
 ---
 
 <div id="blog-archives">
@@ -9,7 +10,7 @@ title: Archives
 		<article class="post">
 			{% if post.external-url %}
 				<h1>
-					<a href="{{ post.external-url }}">{{ post.title }}</a> 
+					<a href="{{ post.external-url }}">{{ post.title }}</a>
 					<a class="anchor" href="{{ post.url }}">&#9875;</a>
 				</h1>
 			{% else %}
