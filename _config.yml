@@ -14,12 +14,3 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
-
-# Settings for analytics helper
-# Set 'provider' to the analytics provider you want to use.
-# Set 'provider' to false to turn analytics off globally.
-#
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-56841264-1'
