@@ -4,9 +4,9 @@ email: hanzblog1@gmail.com
 description: "Write your site description here"
 baseurl: ""
 url: "http://www.hanzlife.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username:
+github_username:
+facebook_username:
 
 # Build settings
 markdown: kramdown
