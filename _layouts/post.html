@@ -12,6 +12,15 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
+                    {% if page.tags %}
+                      <a href="{{ site.baseurl}}/topics" style="text-decoration: none">
+                        <h3 class="subheading"  style="color:#FFF">topics:
+                          {% for tag in page.tags %}
+                            {{ tag }}
+                          {% endfor %}
+                        </h3>
+                      </a>
+                    {% endif %}
                     <span class="meta">Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
