@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Why this blog?"
+subtitle:   "Why does this blog exist, whats it about, why do I have to pay for winrar?"
+date:       2014-12-11 12:00:00
+author:     "Hanz Yolo"
+tags: "hanz about"
+header-img: "img/post-bg-01.jpg"
+---
+
+<h2 class="section-heading">Why this blog?</h2>
+
+<p>I've often read other people's blogs and realized how completely worthless most are. The content is not interesting or about some stupid niche. So I'm dedicating this blog to exclusively interesting content.</p>
+
+<p>The strategy is simple. All those interesting lifehacker articles, Tim Ferriss book chapters and blog articles, Mr Money Moustache blog articles, and weird health experiments will be put to the test. I will subject my body and bank accounts in order to find the best bang for your buck, easy health improvements, and general purpose life hacks.</p>
+
+<h2 class="section-heading">Moving Forward</h2>
+
+<p>This should be a fun ride, providing I don't hurt myself or lose all my money. I'm aiming for roughly 1-2 posts every month. I'll promise to keep them fun and brief.</p>
+
+-Hanz
+
+
+<!--<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>.--> <p>Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
