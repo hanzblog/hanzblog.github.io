@@ -8,7 +8,7 @@ tags: "health disease"
 header-img: "img/sneeze-pic.jpg"
 ---
 
-<h2 class="section-heading">Disclaimer</h2>
+<h3 >Disclaimer</h3>
 
 <p>I'm not a medical professional. I am merely summarizing my experimentation and the existing scientific research.</p>
 
@@ -47,5 +47,3 @@ header-img: "img/sneeze-pic.jpg"
 
 
 <p><b>Sources:</b><br/><a href="http://store.examine.com/refer/hanz?loc=store%2Fstack-guides%2F">Scientific Research from Examine.com</a></p>
-<!--<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. <p>Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
--->

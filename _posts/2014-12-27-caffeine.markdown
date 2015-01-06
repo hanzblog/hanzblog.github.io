@@ -1,0 +1,63 @@
+---
+layout:     post
+title:      "You and Your Caffeine Addiction"
+subtitle:   "Is caffeine an abusive friend? Should you rid yourself of it?"
+date:       2014-12-27 12:00:00
+author:     "Hanz Yolo"
+tags: "health caffeine"
+header-img: "img/coffee.jpg"
+---
+
+{% include disclaimer.html %}
+
+<h2 class="section-heading">The Most Common Addiction</h2>
+<p>Caffeine is clearly the most widely consumed drug known to man. Everyday millions of people drink it in coffee, tea, energy drinks, or consume it in caffeine pills. It has a powerful effect; it can prevent feelings of sluggishness, sleepiness, and can increase mood, memory, and alertness.</p>
+
+<p>
+It's also incredibly physically addictive. You can build a complete tolerance (drinking ~3 cups of coffee a day) in just 3 weeks. Once you've built up a tolerance, the only real benefit of caffeine is to prevent sleep, or to stop the withdrawal symptons.
+</p>
+
+<h2 class="section-heading">My Addiction</h2>
+
+<p>I was consuming caffeine (~200mg/day) for several months in a row. My tolerance got to the point where I could drink an entire energy drink and feel absolutely nothing. I took this as a sign that I should probably stop, or at least cycle off for a bit. But the withdrawal was going to be painful, physically and mentally. So I consulted the internet gods and did my best to discover the quickest, most pain free method to cycle off caffeine. Here we go.</p>
+
+<h2 class="section-heading">Getting off Caffeine: Three Strategies</h2>
+
+<h3>Going Cold Turkey (it's painful)</h3>
+
+<p>This one is simple, you just stop consuming caffeine. The withdrawal symptoms will hit you like a ton of bricks. You will be grumpy, sleepy, maybe even nauseous. You can take tylenol to lessen the headaches, but you can't go through this method pain-free. This takes 3-7 days. If you choose this route, I wish you the best of luck.</p>
+
+<h3>Weaning off with L-Theanine</h3>
+
+<p>I learned this from the <a href="www.reddit.com/r/nootropics">/r/Nootropics</a> community. You start taking L-theanine whenever you consume caffeine in a 2:1 mix. I took 100mg of caffeine at a time, so I would take 200mg of L-theanine at the same time. This will mellow out your caffeine rush and lengthen it. Then over the course of a week, I lowered my caffeine intake to half of what I was doing. The the following week I halved my caffeine intake again. Finally after that week, I stopped completely and it was a relatively painless experience. If you can count, you'll see this took three weeks.
+</p>
+
+<p>You can get L-theanine in these forms:</p>
+<ul>
+  <li><a href="http://www.amazon.com/gp/product/B000H7P9M0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000H7P9M0&linkCode=as2&tag=hanz06-20&linkId=RBJKLQWXFJM3QDIA">Pill Form - Now Foods, L-Theanine 200 Mg</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hanz06-20&l=as2&o=1&a=B000H7P9M0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
+  <li><a href="http://www.amazon.com/gp/product/B00E7GESLA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E7GESLA&linkCode=as2&tag=hanz06-20&linkId=7M62QQRGBU7QOIDE">Powder Form, BulkSupplements Powder</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hanz06-20&l=as2&o=1&a=B00E7GESLA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </li>
+  <li>L-theanine naturally occurs in tea (Black tea - 15mg/cup, Green Tea - 10-45mg/cup)</li>
+</ul>
+
+<p>You can take the pill standalone, or add the powder to your caffeinated beverage.</p>
+
+<h3>Another possibility: Lowered Dosing</h3>
+
+<p>This strategy is one I see commonly on internet forums. Basically you lower your dosage to 33% or 50% of what you normally take for a prolonged period of time. Climbing back up to your originally will give you all the old benefits. Some people tried this way for a month, others indefinitely. I took 10 days doing this.</p>
+
+<h2 class="section-heading">What Happened</h2>
+<p>I personally tried all three methods over the course of a few months and definitely found each one has a different feeling. Going Cold Turkey was extremely painful but by far the quickest. Using L-theanine and gradually lowering the dosage took the longest but was not painful at all. The lowered dosage technique wasn't too painful, but I felt sleepy all the time.</p>
+
+<p>Personally, I'd recommend the L-theanine method for a number of reasons. It's nearly pain free, it gives me more of an excuse to drink tea, and the other benefits of L-theanine are great. The mellow caffeine feeling is far superior to the feeling that coffee gives me. My heart doesn't race, I don't feel nervous/anxious, and it's easier to focus on one thing.</p>
+
+<p>Note: After weaning off caffeine, I do plan to return to consuming caffeine after a few weeks. The benefits are simply too great to pass on. However, rather than consume large amounts everyday, I'm going to take it as needed.</p>
+
+-Hanz
+
+<!-- Sources-->
+<p><b>Sources:</b><br/>
+<br><a href="http://store.examine.com/refer/hanz?loc=store%2Fstack-guides%2F">Scientific Research from Examine.com</a></br>
+<br><a href="http://examine.com/supplements/Theanine/">L-Theanine</a></br>
+<br><a href="http://examine.com/supplements/Caffeine/">Caffeine</a></br>
+</p>
